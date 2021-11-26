@@ -39,3 +39,6 @@ Please read [```CONTRIBUTING.md```](https://github.com/Crazy-Marvin/2048Telegram
 ## License
 
 This project is licensed under the MIT License - see the [```LICENSE```](https://github.com/Crazy-Marvin/cats_n_dogs/blob/master/LICENSE) file for details.
+
+## Deploy
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HusuSovetski/2048TelegramBot
